@@ -1,0 +1,27 @@
+.btn {
+  padding: 5px 10px;
+  margin: 0px 2px;
+  color: white;
+  border-radius: 10px;
+  border: none;
+}
+.readBtn {
+  background-color: blue;
+}
+.editBtn {
+  background-color: green;
+}
+.deleteBtn {
+  background-color: red;
+}
+.search {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.inp{
+  padding: 0px 10px;
+  height: 30px;
+
+}
